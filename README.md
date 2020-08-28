@@ -5,6 +5,8 @@
 
 I'm a software engineer who is passionate about creating technology to solve the problems of end users. Some technologies I enjoy working with include ReactJS, NodeJs, GraphQL. I'm currently working as Senior Software Engineer @ Infogain India Pvt. Ltd.
 
+# "Long Live the King Javascript"
+
 ## Contact me 🙋‍♂️
 ### Here's a list of useful links where you can get in touch with me:
 
