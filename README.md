@@ -15,3 +15,5 @@ I'm a software engineer who is passionate about creating technology to solve the
 - <a href="https://www.twitter.com/iam__akshath">Twitter</a>
 - <a href="https://www.facebook.com/akshath.kumar.180">Facebook</a>
 
+
+<a href="https://app.daily.dev/imakshath"><img src="https://api.daily.dev/devcards/365548ece22049258f2919d91efacb82.png?r=vnn" width="400" alt="Akshath Kumar's Dev Card"/></a>
